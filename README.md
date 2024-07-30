@@ -5,7 +5,7 @@ To run the project successfully first you need to create an account on CoinRanki
 
 CryptoTracker\app\src\main\java\com\devstudio\cryptotracker\data\api
 
-open the RetrofitClint object and replace the API key with your once
+open the RetrofitClint file/object and replace the API key with your once
 
 
 
